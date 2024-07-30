@@ -1,0 +1,20 @@
+## bullhead-user 7.0 NRD90M 3085278 release-keys
+- Manufacturer: lge
+- Platform: msm8992
+- Codename: bullhead
+- Brand: google
+- Flavor: bullhead-user
+- Release Version: 7.0
+- Kernel Version: 
+- Id: NRD90M
+- Incremental: 3085278
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Treble Device: false
+- Locale: en-US
+- Screen Density: 420
+- Fingerprint: google/bullhead/bullhead:7.0/NRD90M/3085278:user/release-keys
+- OTA version: 
+- Branch: bullhead-user-7.0-NRD90M-3085278-release-keys
+- Repo: google_bullhead_dump
